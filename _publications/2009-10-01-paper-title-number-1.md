@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Genetic influences on male and female variance in reproductive success and implications for the recovery of severely endangered mountain caribou"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-genetic-influences
+excerpt: 'Small and declining populations of large mammals are vulnerable to stochastic events and can be at high risk of extinction. Population viability is also susceptible to the detrimental effects of low genetic diversity and inbreeding. The objective of this study was to do an assessment of three endangered caribou subpopulations using non-invasive genetic sampling to assess demographic population changes by combining capture-recapture modeling, familial pedigree networks, individual fitness and inbreeding coefficients. Three subpopulations of the Central Mountain caribou ecotype (Rangifer tarandus caribou) in Jasper National Park, Canada, were systematically surveyed over a 10-year period and fecal samples collected for DNA analyses. For the Tonquin, population size declined at a rate of 0.86 (95% CI 0.82, 0.91), the number of females decreased from 41 in 2006 to only 14 in 2015. The Brazeau and Maligne subpopulations also declined over the same period, from 22 to 11 individuals (11 and 5 females) in 2006, to 12 and 3 individuals (6 and 1 females) in 2015. The pedigree network confirmed limited interbreeding among subpopulations, varied fitness levels in both males and females, and evidence of inbreeding avoidance among high-fitness individuals. All population parameters pointed to a rapid population decline and low population sizes, putting them at high risk of extinction. The varying reproductive fitness observed amongst males and females was significant and should be considered in future population augmentation or reintroduction efforts. Improved connectivity among and with neighbouring subpopulations should also be considered to sustain or enhance genetic diversity.'
+date: 2018
+venue: 'Global Ecology and Conservation'
+paperurl: 'https://doi.org/10.1016/j.gecco.2018.e00451'
+citation: 'McFarlane, S., Manseau, M., Flasko, A., Horn, R. L., Arnason, N., Neufeld, L., Bradley, M., & Wilson, P. J. (2018). Genetic influences on male and female variance in reproductive success and implications for the recovery of severely endangered mountain caribou. <i>Global Ecology and Conservation</i>, 16, e00451. https://doi.org/10.1016/j.gecco.2018.e00451
+'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
